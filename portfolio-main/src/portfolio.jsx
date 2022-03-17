@@ -172,6 +172,6 @@ export const links = [
   
   "https://www.linkedin.com/in/rajarsi-mukherjee-11035119b",
   "https://api.whatsapp.com/send/?phone=919064223289&text&app_absent=0",
-  "mailto:rajarsimukerjee@gmail.com",
+  //"mailto:rajarsimukerjee@gmail.com",
   "https://github.com/RajarsiMukherjee",
 ];
