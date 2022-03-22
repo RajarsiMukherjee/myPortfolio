@@ -24,7 +24,7 @@ export const main = {
 // AboutMe
 export const aboutme = {
   
- imgLink: "https://raw.githubusercontent.com/RajarsiMukherjee/youtube-clone/main/my%20pik%20new.png",
+ imgLink: "https://raw.githubusercontent.com/RajarsiMukherjee/youtube-clone/main/my%20pik%20new-cropped.png",
   p1: "Hey, My name is Rajarsi Mukherjee. I have completed my Bachelor of Engineering from Techno India University, Kolkata(W.B.).",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
   p3: "Apart from coding I also like yoga, cooking , read news and explore new political history and national things.",
@@ -130,7 +130,7 @@ export const details = [
   {
     id: 1,
     title: "Paula's Choice Clone",
-    desc: `Paula's Choice is a well known E-commerce cosmetics products website there are lots of categories available for shopping.`,
+    desc: `In this project we have tried to make a look alike clone of Paula's Choice. With our efforts and the technology stack, that we have learned till now in Unit-4 in Masai School, we were able to clone the front end, integrated it with backend and added similar looks and features.`,
     feature: `Sign-in/Sign-up,
               backend database is use to show product and add to cart, explore various products,
               Payment pages.`,
@@ -143,7 +143,7 @@ export const details = [
   {
     id: 2,
     title: "Sugar Cosmetics Clone",
-    desc: `A Web application to shop cosmetics products online.`,
+    desc: `This is a clone of SugerCosmetic. that's provide E-buying facility and makeup items.`,
     feature: `Sign-in/Sign-up,
               corousel image,
               Dynamic product page,
